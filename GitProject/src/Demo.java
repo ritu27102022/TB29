@@ -11,8 +11,9 @@ public class Demo {
 		
 
 	}
-	publiic void show()
+	public void show()
 	{
+		System.out.println("this is show method")
 	}
 
 }
