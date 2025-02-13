@@ -13,21 +13,21 @@ public class Demo {
 	}
 	public void show()
 	{
-		System.out.println("this is show method")
+		System.out.println("this is show method");
 	}
 
 	public void m1()
 	{
-		System.out.println("This is m1 method")
+		System.out.println("This is m1 method");
 			}
 	public  void m2()
 	{
-		System.out.println("This is m2 method")
+		System.out.println("This is m2 method");
 			}
 
 	public  void m3()
 	{
-		System.out.println("This is m3 method")
+		System.out.println("This is m3 method");
 			}		
 
 }
